@@ -1,6 +1,6 @@
-# Retail Example Bot
+# Retail Starter Pack
 
-This is a sample retail bot to help provide starter content, examples of how to implement particular features, and sample use cases. Built using Rasa 2.1.2
+This is a retail starter pack to help provide initial content, examples of how to implement particular features, and sample use cases. Built using Rasa 2.1.2
 
 ## Install dependencies
 
